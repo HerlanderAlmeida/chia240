@@ -47,6 +47,9 @@ Change chia240.dir.temp_chia_plot.path - Dir that will temporarily receive the f
  
 **Watch out! Run or in console or service mode ... if you run both together the application will stop**
 
+## Donate
+
+```
 
 BTC: bc1q2pmtjkca20jq8ygvkf9vxlpffx4ww04prx3ear
 
@@ -55,6 +58,8 @@ ETH: 0x9D32759012Fe12f528c5FE4dFB25812BC6079e40
 XCH: xch1g2tsmg5fs69zuc8l9ahqyunp8zxxx7x9cr74qa949sm2wqcg7xusnpczqn
 
 DOGE: D5RNhezuTsE179VYHcQd76ftrXTVnSMtnJ
+
+```
 
 
 
