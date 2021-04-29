@@ -20,7 +20,10 @@ The application basically moves files that are not used in some phases to anothe
 
 Before running the application edit config.yml
 
+![imagem](https://github.com/HerlanderAlmeida/chia240/blob/main/config.PNG?raw=true)
+
 Change chia240.dir.chiaplot.path  - Dir sdd 
+![imagem](https://github.com/HerlanderAlmeida/chia240/blob/main/tempplot.PNG?raw=true)
 
 Change chia240.dir.temp_chia_plot.path - Dir that will temporarily receive the files
 
@@ -31,9 +34,14 @@ Change chia240.dir.temp_chia_plot.path - Dir that will temporarily receive the f
  [Download](https://github.com/HerlanderAlmeida/chia240/blob/main/chia240.zip)
  
  Extract files in folder
+ ![imagem](https://github.com/HerlanderAlmeida/chia240/blob/main/dirextract.PNG?raw=true)
  
  install.cmd - execute with "Run as administrator"
+ ![install](https://github.com/HerlanderAlmeida/chia240/blob/main/install_service.PNG?raw=true)
+ ![valid service](https://github.com/HerlanderAlmeida/chia240/blob/main/install_service_valid.PNG?raw=true)
+ 
  run.cmd - execute mode console
+ ![run console](https://github.com/HerlanderAlmeida/chia240/blob/main/run-console.PNG?raw=true)
  
 **Watch out! Run or in console or service mode ... if you run both together the application will stop**
 
