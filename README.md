@@ -2,7 +2,7 @@
 
 Software created to help people farm Chia Blockchain (XCH) with 240GB SSD k32.
 The application basically moves files that are not used in some phases to another directory and then automatically returns the files
-####Important! This application is a WORKAROUND. I am not responsible for plot losses during execution! I recommend following all the recommendations https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL
+#### Important! This application is a WORKAROUND. I am not responsible for plot losses during execution! I recommend following all the recommendations https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL
 
 
 
