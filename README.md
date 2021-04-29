@@ -28,7 +28,7 @@ Change chia240.dir.temp_chia_plot.path - Dir that will temporarily receive the f
 
 ## Install
  
- Download
+ [Download](https://github.com/HerlanderAlmeida/chia240/blob/main/chia240.zip)
  
  Extract files in folder
  
